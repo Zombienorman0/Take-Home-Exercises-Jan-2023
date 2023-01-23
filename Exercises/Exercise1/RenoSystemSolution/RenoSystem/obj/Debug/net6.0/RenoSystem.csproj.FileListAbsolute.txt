@@ -1,0 +1,12 @@
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\bin\Debug\net6.0\RenoSystem.deps.json
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\bin\Debug\net6.0\RenoSystem.dll
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\bin\Debug\net6.0\RenoSystem.pdb
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\RenoSystem.csproj.AssemblyReference.cache
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\RenoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\RenoSystem.AssemblyInfoInputs.cache
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\RenoSystem.AssemblyInfo.cs
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\RenoSystem.csproj.CoreCompileInputs.cache
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\RenoSystem.dll
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\refint\RenoSystem.dll
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\RenoSystem.pdb
+C:\Users\zbylhouwer1\source\repos\Take-Home-Exercises-Jan-2023\Exercises\Exercise1\RenoSystemSolution\RenoSystem\obj\Debug\net6.0\ref\RenoSystem.dll
